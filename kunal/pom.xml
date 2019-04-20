@@ -8,8 +8,9 @@
   <packaging>jar</packaging>
       
 
-  <name>kunal</name>
-  <url>http://maven.apache.org</url>
+  <name>kunal</name>    
+  <url>http://maven.apache.org</url>          
+  <santosh></santosh>   
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
